@@ -7,3 +7,14 @@ To allocate Relationship Managers (RMs) to customers in the most efficient way p
 1. As a customer, I want to talk to a representative who has a similar perspective, such as a common culture or language, so that I get the best possible product recommendation and purchase.
 2. As a customer, I want to be connected to the RM with the highest likelihood of success as measured through a criteria.
 3. As an RM, I want to be connected to the customer with the highest score possible because I want to maximise the likelihood of a successful sale.
+4. As an RM, I want to be given customer personalised guidelines and a script based on all available information to help me improve the service.
+
+Inbound:
+
+1. As a customer, I want to be connected to a representative as quickly as possible to save time.
+2. As a customer, I want minimal interaction with the Interactive Voice Response unit because while necessary, it is an annoying experience.
+3. As a customer, I want to be connected to the representative that is most likely to be knowledgeable about the inquiry (e.g travel location) so they can more effectively assist me. (See Assumption 3).
+
+Outbound:
+
+1. As a customer, I only want to be contacted by the company for a recommendation of a product that I&#39;m likely to be interested in so as to avoid unnecessary calls. (See Assumption 1)
