@@ -23,6 +23,7 @@ Outbound:
 4. As an RM, I want my schedule of end-customer calls and estimated call durations to be based on my skill level and past performance to ensure that I can assist the maximum number of customers in the available time.
 
 **Assumptions:** 
+
 The system makes the proposed product of a customer based on the customer profile, which has the information needed to make said proposal.
 The score of the customer is impacted (lowered) if they show a lack of interest in purchasing a product by hanging up, repeatedly declining a purchase, etc.
 When inquiring about the reasons for the call, The Interactive Voice Response unit asks about travel location interests (e.g. continent) and the Automatic Call Distributor uses that information in its routing process to an appropriate RM.
