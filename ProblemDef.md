@@ -26,3 +26,8 @@ The system makes the proposed product of a customer based on the customer profil
 The score of the customer is impacted (lowered) if they show a lack of interest in purchasing a product by hanging up, repeatedly declining a purchase, etc.
 When inquiring about the reasons for the call, The Interactive Voice Response unit asks about travel location interests (e.g. continent) and the Automatic Call Distributor uses that information in its routing process to an appropriate RM.
 The Call Management Center is only used for connecting calls to RMs (not customer support).
+Assumptions: 
+The system makes the proposed product of a customer based on the customer profile, which has the information needed to make said proposal.
+The score of the customer is impacted (lowered) if they show a lack of interest in purchasing a product by hanging up, repeatedly declining a purchase, etc.
+When inquiring about the reasons for the call, The Interactive Voice Response unit asks about travel location interests (e.g. continent) and the Automatic Call Distributor uses that information in its routing process to an appropriate RM.
+The Call Management Center is only used for connecting calls to RMs (not customer support).
