@@ -18,3 +18,6 @@ Inbound:
 Outbound:
 
 1. As a customer, I only want to be contacted by the company for a recommendation of a product that I&#39;m likely to be interested in so as to avoid unnecessary calls. (See Assumption 1)
+2. As a customer, I want to be contacted at a time when I am likely to be available for a conversation because otherwise I will be disturbed and won&#39;t be able to respond.
+3. As a customer, I don&#39;t want to be contacted if I have repeatedly shown a lack of interest in purchasing a product. (See Assumption 2)
+4. As an RM, I want my schedule of end-customer calls and estimated call durations to be based on my skill level and past performance to ensure that I can assist the maximum number of customers in the available time.
