@@ -6,5 +6,4 @@
 4. How might we connect the customer to the RM to lessen the amount of time they spend waiting?
 5. How might we make the Interactive Voice Response Unit a more pleasing experience and effective use of the customers&#39; time?
 6. How might we make use of the Interactive Voice Response Unit to acquire the most useful information to connect the customer to the most knowledgeable RM?
-
-  7.How might we develop the customer profiling tool to increase the accuracy of customer matching with the RM?
+7. How might we develop the customer profiling tool to increase the accuracy of customer matching with the RM?
