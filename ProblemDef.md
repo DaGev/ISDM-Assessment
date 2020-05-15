@@ -1,3 +1,7 @@
+**Empathy Map**
+
+![EmpathyMap](Empathy Map.png)
+
 **Problem Definition:**
 
 To allocate Relationship Managers (RMs) to customers in the most efficient way possible, to achieve the greatest rate of sales per number of calls (for inbound and outbound calls), while reducing waiting times of customers (for inbound calls).
