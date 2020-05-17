@@ -9,8 +9,6 @@
 7. How might we develop the customer profiling tool to increase the accuracy of customer matching with the RM?
 8. How might we develop the Interactive Voice Response Unit so that it is more adaptive to the change of language and region of the customers so that customer interaction can be improved more with it?
 9. How might a RM can gather information from a customer who is  contacting for the first time?
-10. How might a RM respond if a customer requests new features in a short time?
-11. How might RM suggest to the customer to increase  conversion rate?
-12. How might RM stay up to date with marketing trends and new tools?
-13. How might the RM estimate the average free time of a customer from the customer profiling tool to call a customer? 
-
+10. How might we ensure that a customer is not disturbed by the calls of a company from which he isn’t interested to buy any product? 
+11. How might we determine the suitable time for calling a customer when he won’t be interrupted or have a thought of wasting time talking to the RM eventually resulting the customer's loss of interest. 
+12. How might we regulate that a relatively less experienced RM is learning to communicate better while interacting with customer at the same time not having a negative effect on the total sales?
