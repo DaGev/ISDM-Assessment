@@ -1,4 +1,4 @@
-Competitive Advantages 
+**Competitive Advantages** 
 
 1.	Automatic call Distributor and Interactive Voice Response unit retain customers (less dropped calls).
 2.	More efficient communication between customer and RM (more customers are consulted with in the same time period)
@@ -8,7 +8,7 @@ Competitive Advantages
 6.	The initial RM profile which was created using a 10-minute questionnaire is updated constantly using their subsequent performance, this will ensure data accuracy which is important when matching them with the correct customers. 
 7.	By allocating RMs with their target lists it makes tracing who the customers interacted with easier.
 
-Possible Effects of the Project Fails
+**Possible Effects of the Project Fails**
 
 1.	Extended waiting times resulting in unhappy customers and bad reviews
 2.	Decrease in staff as they would be displeased in working with an inadequate system
