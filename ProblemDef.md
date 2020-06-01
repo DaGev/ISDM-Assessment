@@ -2,6 +2,13 @@
 
 To allocate Relationship Managers (RMs) to customers in the most efficient way possible, to achieve the greatest rate of sales per number of calls (for inbound and outbound calls), while reducing waiting times of customers (for inbound calls).
 
+**List of Stakeholders:**
+
+- Relationship Managers (RMs)
+- End-Customers/Potential Customers
+- Major Travel Company’
+
+
 **POV Statement:**
 
 1. As a customer, I want to talk to a representative who has a similar perspective, such as a common culture or language, so that I get the best possible product recommendation and purchase.
