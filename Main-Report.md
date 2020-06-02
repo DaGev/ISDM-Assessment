@@ -1,5 +1,7 @@
 **Empathy Map**
 
+<img src="Empathy-Map-Customer.png">
+
 **Problem Definition:**
 
 To allocate Relationship Managers (RMs) to customers in the most efficient way possible, to achieve the greatest rate of sales per number of calls (for inbound and outbound calls), while reducing waiting times of customers (for inbound calls).
@@ -64,19 +66,19 @@ Assumption 3: The Interactive Voice Response unit, according to this assumption,
 
 **Use Case Diagram:**
 
-
+<img src="Use-Case-Diagram.png">
 
 **Activity Diagram:**
 
-
+<img src="Activity-Diagram.png">
 
 **Class Diagram:**
 
-
+<img src="Class-Diagram.png">
 
 **Collaboration Diagram:**
 
-
+<img src="Collaboration-Diagram.png">
 
 **Project Reflection:**
 
